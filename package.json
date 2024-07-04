@@ -1,0 +1,29 @@
+{
+  "name": "business-cards-app",
+  "version": "1.0.0",
+  "description": "business-cards-app",
+  "main": "app.js",
+  "scripts": {
+    "start": "set NODE_ENV=production&& nodemon -L .",
+    "dev": "set NODE_ENV=development&& nodemon .",
+    "app": "npm i && nodemon ."
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "chalk": "^4.1.0",
+    "config": "^3.3.11",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "joi": "^17.12.3",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

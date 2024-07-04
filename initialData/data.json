@@ -1,0 +1,166 @@
+{
+    "cards": [
+        {
+          "title": "testnataly10",
+          "subtitle": "testnataly1000",
+          "description": "testnataly1000",
+          "phone": "050-0000000",
+          "email": "testnataly1000@mail.cpm",
+          "web": "https://www.walla.co.il",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1573847792062-9292df56ebb4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=m3wxmja3fdb8mhxzzwfyy2h8mjb8fhbpy3xlbnwwfhwwfhx8ma%3d%3d",
+            "alt": "business card image"
+          },
+          "address": {
+            "state": "",
+            "country": "testnataly1000",
+            "city": "testnataly1000",
+            "street": "testnataly1000",
+            "houseNumber": 12,
+            "zip": 1212121
+        },
+        "bizNumber": 5214078
+    },
+
+        {
+          "title": "nataly",
+          "subtitle": "nataly",
+          "description": "nataly",
+          "phone": "050-0000000",
+          "email": "nataly@nataly.com",
+          "web": "https://www.walla.co.il",
+          "image": {
+            "url": "https://plus.unsplash.com/premium_photo-1661861314373-342d917c30ff?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=m3wxmja3fdb8mhxzzwfyy2h8mxx8zgluyxnvdxj8zw58mhx8mhx8fda%3d",
+            "alt": "nataly"
+          },
+          "address": {
+            "state": "nataly",
+            "country": "nataly",
+            "city": "nataly",
+            "street": "nataly",
+            "houseNumber": 12,
+            "zip": 1212121
+          },
+          "bizNumber": 3911470
+        },
+        {
+          "title": "css is the most fun part of front-end.",
+          "subtitle": "יאללה עברנו הלאה",
+          "description": "back-end! back-end! back-end! back-end! back-end! back-end! back-end! back-end! back-end! back-end! back-end! back-end! back-end!\ncss is the most fun part of front-end.",
+          "phone": "0541234505",
+          "email": "aviv@gmail.com",
+          "web": "https://www.walla.co.il",
+          "image": {
+            "url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg",
+            "alt": "mysql"
+          },
+          "address": {
+            "state": "useStateeeee",
+            "country": "country music",
+            "city": "sincity",
+            "street": "streetie",
+            "houseNumber": 12,
+            "zip": 5925416
+          },
+          "bizNumber": 3640162
+        },
+        {
+          "title": "donut factory",
+          "subtitle": "want a donut?",
+          "description": "test4",
+          "phone": "0545475544",
+          "email": "donut@gmail.com",
+          "image": {
+            "url": "https://cdn.dribbble.com/users/40756/screenshots/6232646/side-profile-woman_2x_4x.png",
+            "alt": "picture"
+          },
+          "address": {
+            "state": "Mercaz",
+            "country": "1 bengurion",
+            "city": "holon",
+            "street": "bengurion",
+            "houseNumber": 1,
+            "zip": 99528
+          },
+          "bizNumber": 3498356
+        }
+    ],
+    "users": [
+        {
+          "name": {
+            "first": "edward",
+            "middle": "ben",
+            "last": "yadid"
+          },
+          "phone": "0509999666",
+          "email": "edward@gmail.com",
+          "password": "Abc!123Abc123",
+          "image": {
+            "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+            "alt": "business card image"
+          },
+          "address": {
+            "state": "israel",
+            "country": "israel",
+            "city": "israel",
+            "street": "israel",
+            "houseNumber": 200,
+            "zip": 200100
+
+          },
+          "isAdmin": true,
+          "isBusiness": true
+        },
+        {
+          "name": {
+            "first": "adolin",
+            "middle": "",
+            "last": "kholin"
+          },
+          "phone": "02-2222222",
+          "email": "alon.benporatss@gmail.com",
+          "password": "Abc!123Abc123",
+          "image": {
+            "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+            "alt": "business card image"
+
+          },
+          "address": {
+            "state": "not defined",
+            "country": "roshar",
+            "city": "kholinar",
+            "street": "palace",
+            "houseNumber": 1,
+            "zip": 0
+
+          },
+          "isAdmin": false,
+          "isBusiness": true
+        },
+    
+        {
+          "name": {
+            "first": "alon",
+            "middle": "man",
+            "last": "ben porat"
+          },
+          "phone": "0542744442",
+          "email": "alon.benporat@gmail.com",
+          "password": "Abc!123Abcnir",
+          "image": {
+            "url": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png",
+            "alt": "business card image"
+          },
+          "address": {
+            "state": "il",
+            "country": "spain",
+            "city": "ded",
+            "street": "shoham",
+            "houseNumber": 5,
+            "zip": 8920435
+          },
+          "isAdmin": false,
+          "isBusiness": false
+        }
+      ]
+}

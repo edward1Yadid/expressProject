@@ -1,0 +1,11 @@
+{
+    "NODE_ENV": "production",
+    "PORT": 8181,
+    "TOKEN_GENERATOR": "jwt",
+    "DB_NAME": "ediyadid",
+    "DB_PASSWORD": "f9c5rPvNiQR5MwJ1",
+    "LOGGER": "morgan",
+    "DB": "MONGODB",
+    "VALIDATION":"Joi",
+    "HashPassword": "bcryptjs"
+  }

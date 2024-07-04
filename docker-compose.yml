@@ -1,0 +1,24 @@
+# mongodb docker-compose.yml
+version: '3.1'
+services:
+  edward-server:  
+    build: .
+
+    container_name: edward-server
+    ports:
+      - 9192:9192
+    restart: always
+    volumes:
+      - .:/app
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    restart: always
+    ports:
+      - 27017:27017
+    volumes:
+      - mongodb_data:/data/db
+
+volumes:
+  mongodb_data:
+
